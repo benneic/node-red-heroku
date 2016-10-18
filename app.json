@@ -1,0 +1,8 @@
+
+ {
+   "name": "Node-RED Heroku",
+   "description": "Node-RED hosted by Heroku",
+   "env": {
+     "PORT": 8080
+   }
+ } 
